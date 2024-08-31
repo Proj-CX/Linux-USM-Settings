@@ -45,7 +45,7 @@ Burası --help veya -help komutu eklendikten sonra bilgi amaçlı eklenecek
 
 ## Authors and Contributors
 
-* Timuçin YILDIRIM [@YILDIRIMT](https://github.com/YILDIRIMT)
+* Habil YILDIRIM [@YILDIRIMT](https://github.com/YILDIRIMT)
 * Wise [@wiseweb-works](https://github.com/wiseweb-works)
 
 
